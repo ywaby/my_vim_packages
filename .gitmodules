@@ -1,0 +1,45 @@
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "start/ale"]
+	path = start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "start/gruvbox"]
+	path = opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "start/fzf.vim"]
+	path = start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "start/vim-multiple-cursors"]
+	path = start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "start/vim-surround"]
+	path = start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "start/tagbar"]
+	path = start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "start/vim-autoformat"]
+	path = start/vim-autoformat
+	url = https://github.com/chiel92/vim-autoformat
+[submodule "start/youcompleteme"]
+	path = opt/youcompleteme
+	url = https://github.com/valloric/youcompleteme
+[submodule "start/vim-autotag"]
+	path = start/vim-autotag
+	url = https://github.com/craigemery/vim-autotag.git
+[submodule "start/nerdtree"]
+	path = opt/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "start/vim-devicons"]
+	path = start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "opt/vim-gdscript3"]
+	path = opt/vim-gdscript3
+	url = https://github.com/calviken/vim-gdscript3.git
